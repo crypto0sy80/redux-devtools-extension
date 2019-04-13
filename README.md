@@ -2,7 +2,8 @@
 
 [![Join the chat at https://gitter.im/zalmoxisus/redux-devtools-extension](https://badges.gitter.im/zalmoxisus/redux-devtools-extension.svg)](https://gitter.im/zalmoxisus/redux-devtools-extension?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=round-square)](http://makeapullrequest.com)
-[![OpenCollective](https://opencollective.com/redux-devtools-extension/backers/badge.svg)](#backers) 
+[![OpenCollective](https://opencollective.com/redux-devtools-extension/backers/badge.svg)](#backers) [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fredux-devtools-extension.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fredux-devtools-extension?ref=badge_shield)
+
 [![OpenCollective](https://opencollective.com/redux-devtools-extension/sponsors/badge.svg)](#sponsors)
 
 ![Demo](https://cloud.githubusercontent.com/assets/7957859/18002950/aacb82fc-6b93-11e6-9ae9-609862c18302.png)
@@ -266,6 +267,9 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 ## License
 
 MIT
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fredux-devtools-extension.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcrypto0sy80%2Fredux-devtools-extension?ref=badge_large)
 
 ## Created By
 
